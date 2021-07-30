@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact **I think im funny lul :)**
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/850091843445194783
+                            )](https://discord.com/users/850091843445194783)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/psyro770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="psyro770" height="30" width="40" /></a>
